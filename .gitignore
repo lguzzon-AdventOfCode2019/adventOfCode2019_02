@@ -1,10 +1,11 @@
 *
+!**\.gitattributes
+!**\.gitignore
 !**\.md
+
 !input
 !testInput_00
 !/\.editorconfig
-!/\.gitattributes
-!/\.gitignore
 !/\.travis\.yml
 !/config\.nims
 !/LICENSE
